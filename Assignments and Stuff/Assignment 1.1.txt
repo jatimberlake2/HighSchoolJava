@@ -1,0 +1,62 @@
+ Section 1.1 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+
+1. (5 pts) Central Processing Unit, or CPU
+Internet: (n) central processing unit, CPU, C.P.U., central processor,
+ processor, mainframe ((computer science) the part of a computer (a microprocessor chip)
+ that does most of the data processing) "the CPU and the memory form the central part of
+ a computer to which the peripherals are attached" http://wordnetweb.princeton.edu/perl/webwn?s=cpu
+Own Words: the brains of the computer
+2. (5 pts) program 
+Internet:  a sequence of instructions that a computer can interpret and execute http://wordnetweb.princeton.edu/perl/webwn?s=program
+Own Words: what the CPU executes
+3. (5 pts) machine language 
+Internet: a programming language designed for use on a specific class of computers http://wordnetweb.princeton.edu/perl/webwn?s=machine%20language
+Own Words: what the computer reads the commands in
+4. (5 pts) main memory (also called the RAM or random access memory)
+Internet: (the most common computer memory which can be used by programs to perform necessary tasks while the computer is on;
+ an integrated circuit memory chip allows information to be stored or accessed in any order and all storage locations are
+ equally accessible http://wordnetweb.princeton.edu/perl/webwn?s=ram
+Own Words: memory than is accessed during the time that the computer is on
+5. (5 pts) locations 
+Internet: 3.an area marked off or designated for a specific purpose http://www.yourdictionary.com/location
+Own Words: numbered places that make up main memory
+6. (5 pts) address  
+Internet:  the code that identifies where a piece of information is stored http://wordnetweb.princeton.edu/perl/webwn?s=computer%20address
+Own Words: the location of stored memory
+7. (5 pts) fetching
+Internet: To locate the next instruction in memory for execution by the CPU http://www.answers.com/topic/fetch-parapsychology
+Own Words: the CPU finding the next thing it needs to do
+8. (5 pts) executing
+Internet: To run (a program or an instruction). http://www.answers.com/topic/execute
+Own Words: to make programs start
+9. (5 pts) fetch-and-execute cycle
+Internet: (instruction cycle)  the time in which a single instruction is fetched from memory, decoded and executed. The first half of 
+the cycle transfers the instruction from memory to the instruction register and decodes it. The second half executes the instruction. 
+http://www.answers.com/topic/instruction-cycle
+Own Words: the time it takes to get things done on the computer
+10. (5 pts) registers
+Internet: A part of the central processing unit used as a storage location http://www.answers.com/topic/status-register
+Own Words: storage place on the CPU
+11. (5 pts) program counter
+Internet: (instruction counter)  A counter that indicates the location of the next computer instruction to be interpreted.
+ Also known as location counter; program counter; sequence counter. http://www.answers.com/topic/instruction-counter
+Own Words: What tells the CPU to do things next
+12. (5 pts) transistors
+Internet: 1.A small electronic device containing a semiconductor and having at least three electrical contacts, used 
+in a circuit as an amplifier, detector, or switch. http://www.yourdictionary.com/transistor
+Own Words: A switch in a computer
+
+Read Section 1.2
+
+

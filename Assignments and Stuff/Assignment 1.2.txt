@@ -1,0 +1,86 @@
+Section 1.2 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+1. (5 pts) hard disk 
+Internet: a rigid magnetic disk mounted permanently in a drive unit http://wordnetweb.princeton.edu/perl/webwn?s=hard%20disk
+Own Words: stores permanent memory on a computer
+2. (5 pts) modem 
+Internet: ((from a combination of MOdulate and DEModulate)
+ electronic equipment consisting of a device used to
+ connect computers by a telephone line) http://wordnetweb.princeton.edu/perl/webwn?s=modem&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=0
+Own Words: the intermediary between computers and phone lines
+3. (5 pts) network interface 
+Internet: the means by which users access a network for the purposes of communicating across it or retrieving information from it. http://cyber.law.harvard.edu/readinessguide/glossary.html#N
+Own Words: what allows you to connect to the network
+4. (5 pts) scanner 
+Internet: an electronic device that generates a digital representation of an image for data input to a computer
+ http://wordnetweb.princeton.edu/perl/webwn?s=scanner
+Own Words: a device that lets you put photos on your computer
+5. (5 pts) device driver
+Internet: a program that determines how a computer will communicate with a peripheral device
+ http://wordnetweb.princeton.edu/perl/webwn?s=device+driver&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=0000
+Own Words: the program that makes it possible to use a specific device
+6. (5 pts) busses
+Internet: an electrical conductor that makes a common connection between several circuits
+ http://wordnetweb.princeton.edu/perl/webwn?s=bus
+Own Words: paths in computers that allow the transfer of commands and data
+7. (5 pts) polling
+Internet: Making continuous requests for data from another device. For example, modems that support polling can call another system and request data. http://www.webopedia.com/TERM/P/polling.html
+Own Words: What the CPU does to check for new data
+8. (5 pts) interrupts
+Internet: A signal informing a program that an event has occurred. http://www.webopedia.com/TERM/i/interrupt.html
+Own Words: the faster method of informing the CPU of new data and events
+9. (5 pts) interrupt handler
+Internet: A program (either BIOS or a device driver),
+ that is used by the CPU to process a hardware interrupt. http://www.pccomputernotes.com/pcterms/glossaryi.htm
+Own Words: program that manages interrupts
+10. (5 pts) asynchronous events
+Internet: (defined as a type of function calls in TinyOS) with parameters
+ containing the data. http://www.cs.virginia.edu/papers/envirolog.pdf
+Own Words: commands that can happen at the same time and contain data
+11. (5 pts) multitasking
+Internet: Describes an operating system that allows the concurrent execution of multiple programs.
+ http://www.cilinder.be/docs/next/NeXTStep/3.3/nd/UserInterface/Glossary/Glossary.htmld/index.html
+Own Words: doing more than one thing at a time, done by the operating system
+12. (5 pts) timesharing
+Internet: the use of a central computer by many users simultaneously http://wordnetweb.princeton.edu/perl/webwn?s=time%20sharing
+Own Words: More than one person using part of a single CPU
+13. (5 pts) thread
+Internet: A portion of a program that can run independently of and concurrently with other portions of the program
+ http://www.thefreedictionary.com/thread
+Own Words: smaller parts of the program that can work with other parts of the program
+14. (5 pts) process
+Internet: A part of a running software program or other computing operation that does a single task
+ http://www.thefreedictionary.com/process
+Own Words: a portion of some program that does one task
+15. (5 pts) yield
+Internet: a point of return (and re-entry) of a coroutine http://en.wikipedia.org/wiki/Yield
+Own Words: a place to stop at and return to
+16. (5 pts) blocked
+Internet: a section of storage locations in a computer allocated to a particular set of instructions or data.
+http://dictionary.reference.com/browse/block
+Own Words: specific places in a computer that do certain things
+17. (5 pts) preemptive multitasking
+Internet:  the act of temporarily interrupting a task being carried out by a computer system, without requiring
+ its cooperation, and with the intention of resuming the task at a later time http://en.wikipedia.org/wiki/Preemptive_multitasking
+Own Words: stopping something to do something else for a time
+18. (5 pts) event handlers
+Internet: an asynchronous callback subroutine that handles inputs received in a program http://en.wikipedia.org/wiki/Event_handlers
+Own Words: what handles interrupts
+19. (5 pts) operating system
+Internet: a set of system software (programs and data) running on a computer that manage the computer hardware and provide
+ common services for execution of various application software http://en.wikipedia.org/wiki/Operating_system
+Own Words: what manages software, hardware, and execution of programs on a computer
+
+Read Section 1.3
+
+

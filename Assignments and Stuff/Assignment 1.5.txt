@@ -1,0 +1,77 @@
+Section 1.5 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+1. (5 pts) software engineering 
+Internet: "the application of a systematic, disciplined, quantifiable
+ approach to the development, operation, and maintenance of software;
+ that is, the application of engineering to software."
+ http://wiki.ercim.eu/wg/SoftwareEvolution/index.php/Terminology#S
+Own Words: the act of creating and perfecting working programs
+2. (5 pts) structured programming
+Internet: A computer programming technique that follows a top down
+ design approach with block oriented structures.http://www.natemurphy.net/glossary.html
+Own Words: a method of programming that works with object related codes
+3. (5 pts) top-down programming
+Internet: (is also known as step-wise design) is essentially the breaking down of
+ a system to gain insight into its compositional sub-systems. http://en.wikipedia.org/wiki/Top-down_programming
+Own Words: taking apart large tasks of programming and working with smaller, easier parts
+4. (5 pts) bottom-up design 
+Internet: is the piecing together of systems to give rise to grander systems, thus making the
+ original systems sub-systems of the emergent system http://en.wikipedia.org/wiki/Top-down_programming
+Own Words: Taking pre-existing or smaller codes to work up to larger tasks
+5. (5 pts) module 
+Internet: a general systems concept, typically defined as a continuum describing the degree to which
+ a system’s components may be separated and recombined http://en.wikipedia.org/wiki/Module
+Own Words: an event that can be called to use in bottom-up programming
+6. (5 pts) information hiding
+Internet: the principle of segregation of design decisions in a computer program that are most likely
+ to change, thus protecting other parts of the program from extensive modification if the design
+ decision is changed http://en.wikipedia.org/wiki/Information_hiding
+Own Words: a way of shortening and concealing information of a module or smaller code so as to
+ prevent much modification to the original code
+7. (5 pts) object-oriented programming 
+Internet: a programming paradigm that uses "objects" – data structures consisting of data
+ fields and methods together with their interactions – to design applications and computer
+ programs http://en.wikipedia.org/wiki/Object-oriented_programming
+Own Words: programming with sets of data and their interactions or "objects"
+8. (5 pts) object
+Internet: any entity that can be manipulated by the commands of a programming language, such as
+ a value, variable, function, or data structure http://en.wikipedia.org/wiki/Object_(computer_science)
+Own Words: sets of data combined with their interactions
+9. (5 pts) state
+Internet: a unique configuration of information in a program or machine. It is a concept that
+ occasionally extends into some forms of systems programming such as lexers and parsers. http://en.wikipedia.org/wiki/State_(computer_science)
+Own Words: an object's data
+10. (5 pts) messages
+Internet: a form of communication used in parallel computing, object-oriented programming, and
+ interprocess communication. http://en.wikipedia.org/wiki/Message_(computer_science)
+Own Words: notes sent through processes to transfer data and communicate certain functions
+11. (5 pts) polymorphism
+Internet: a programming language feature that allows values of different data types to be
+ handled using a uniform interface http://en.wikipedia.org/wiki/Polymorphism_(computer_science)
+Own Words: when same-class objects respond to messages in a different way
+12. (5 pts) class
+Internet: a construct that is used as a blueprint (or template) to create objects of that class
+ http://en.wikipedia.org/wiki/Class_(computer_science)
+Own Words: the model for objects in a class
+13. (5 pts) subclasses 
+Internet: a class that inherits some properties from its superclass http://en.wikipedia.org/wiki/Subclass_(computer_science)
+Own Words: like a miniature class that has the same features as the class above it (the one that contains it)
+14. (5 pts) inherit
+Internet: a way to compartmentalize and reuse code by creating collections of attributes and behaviors called objects
+ which can be based on previously created objects http://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
+Own Words: the superclass's way to pass down attributes to a subclass, allowing it to use some of the same code
+
+
+Read Section 1.6
+
+

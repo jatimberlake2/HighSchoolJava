@@ -1,0 +1,41 @@
+Section 1.6 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+
+1. (5 pts) command-line interface
+Internet: a mechanism for interacting with
+ a computer operating system or software by
+ typing commands to perform specific tasks http://en.wikipedia.org/wiki/Command-line_interface
+Own Words: giving direct commands to a computer by typing them in
+2. (5 pts) Graphical User Interface or GUI
+Internet: often pronounced gooey,[1] is a type of user interface
+ that allows users to interact with programs in more ways than
+ typing such as computers http://en.wikipedia.org/wiki/GUI
+Own Words: an interface that lets you do things other than type to give commands
+3. (5 pts) applet
+Internet: any small application that performs one specific task http://en.wikipedia.org/wiki/Applet
+Own Words: Tiny programs that let you do one certain task
+4. (5 pts) AWT or Abstract Windowing Toolkit 
+Internet: Java's original platform-independent windowing, graphics, and user-interface widget toolkit
+ http://en.wikipedia.org/wiki/Abstract_Window_Toolkit
+Own Words: a tool in Java that is used for creating windows, graphics, and such user-interface widgets
+5. (5 pts) Swing
+Internet: A Java 2 package of GUI classes; The javax (Java Extension)
+ Swing package contains improved versions of the classes
+ of the AWT package, as well as new classes http://www.comsci.us/gr/notes2/ch04.html
+Own Words: package of GUI classes for java that has newer/better versions of AWT classes
+
+
+
+Read Section 1.7
+
+

@@ -1,0 +1,147 @@
+Java
+Dr. Albert Lilly
+Welcome!
+
+Name you like to be called 
+Anthony or Tony for short
+
+Last name
+Timberlake
+
+Home city
+Enterprise
+
+Home county
+Coffee
+
+Home school
+would be Enterprise High School
+
+Date of Birth
+June 7th, 1994
+
+Dorm room number
+M242
+
+Hall in dorm (circle one)
+Einstein, (Curie), Newton, and Da Vinci
+
+*****************************
+
+Parent(s)/guardian(s) name(s) with proper title
+Examples:
+Rev. and Mrs. John Doe
+Mr. and Mrs. John Doe
+Dr. and Mrs. John Doe
+
+Mr. Matthew Timberlake, Mrs. Julie Timberlake
+
+
+Parent(s)/guardian(s) mailing address
+
+City, State   Zip
+
+Example
+
+Jane Doe
+Mr. and Mrs. John Doe
+25 Highwater St.
+Mytown,  AL 12345
+
+Mr. and Mrs. Timberlake
+1102 Brooks Circle
+Enterprise, AL 36330
+
+
+******************************
+Who is your father's (or guardian's) employer?
+
+The company changed, so I'm not sure.
+
+
+If self-employed what is the name of the business?
+
+If you know it, what is the telephone number of the company?
+
+As best as you can, write out your father's (or guardian's) job description.
+
+Instructor pilot for helicopters, retired military
+
+
+******************************
+Who is your mother's (or guardian's) employer?
+
+officially self-employed, but has a sales representative position for three power companies:
+Pea River, Covington Electic, and Alabama Power
+
+
+If self-employed what is the name of the business?
+
+If you know it, what is the telephone number of the company?
+
+As best as you can, write out your mother's (or guardian's) job description.
+
+Handles money for people incoming and outgoing, clearing houses, paying bills, etc. for
+her companies
+
+******************************
+
+What is your email address?
+
+justintenacious@yahoo.com
+
+
+What is your parents/guardians email address?
+
+BUSYJUL@AOL.com
+timberlakema@AOL.com
+
+List something you like about computers. 
+
+Always something new to learn, easy for me to work with
+
+
+Comment on an aspect of computers that you do not like.
+
+Some projects and codes can take a very long time to create (whether it be video editing,
+digital art, game programming, etc.)
+
+
+List an activity you enjoy that has nothing to do with computers.
+
+Hanging out with friends
+
+
+What do you know about web page development?
+
+not much
+
+
+What do you know about programming languages?
+
+They contain switches, variables, and allow you to use those to create loops, if/then commands, and functions like that. Each little function builds up into larger functions that run things.
+
+What computer courses have you taken?
+
+A basic computer class at my last school, but I have a little bit of independent experience with game programming
+
+
+Have you had any experience with Excel or
+other spreadsheet programs?
+
+Yes.
+
+
+Have you ever done modeling in three dimensions on a computer?     If so, what software did you use?
+
+No.
+
+
+What foreign languages have you had and how much have you taken?
+
+Spanish, elentary level, taking German this year
+
+
+What is your favorite science?
+
+I'm not sure yet, but so far is computer science.

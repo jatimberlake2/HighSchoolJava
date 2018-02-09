@@ -1,0 +1,42 @@
+Section 1.4 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+
+1. (5 pts) variables
+Internet: a quantity that can assume any of a set of values http://wordnetweb.princeton.edu/perl/webwn?s=variable
+Own Words: something that can represent anything and change
+2. (5 pts) types
+Internet: A category of data. Typical data types are numeric,
+ alphanumeric (character), dates and logical (true/false).
+ Programming languages allow for the creation of different
+ data types http://encyclopedia2.thefreedictionary.com/Type+(computer+science)
+Own Words: different kinds of information
+3. (5 pts) control structures
+Internet: a block of programming that analyzes variables and chooses a
+ direction in which to go based on given parameters http://en.wikiversity.org/wiki/Control_structures
+Own Words: commands that decides where to go next depending on the code
+4. (5 pts) subroutines
+Internet: A group of instructions that perform a specific task.
+ A large subroutine might be called a "module" or "procedure."
+ Subroutine is somewhat of a dated term, but it is still quite valid.
+ http://www.answers.com/topic/subroutine
+Own Words: code that does a certain thing
+5. (5 pts) loops
+Internet: a single execution of a set of instructions that are to be repeated http://wordnetweb.princeton.edu/perl/webwn?s=loop
+Own Words: code that works circularly to occur again and again
+6. (5 pts) branches
+Internet: a point in a computer program where the flow of control is altered
+Own Words: If-Then statements
+
+Read Section 1.5
+
+

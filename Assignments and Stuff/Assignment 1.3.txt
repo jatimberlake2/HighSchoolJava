@@ -1,0 +1,43 @@
+Section 1.3 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+
+1. (5 pts) high-level programming languages
+Internet: a programming language with strong abstraction from the
+ details of the computer. In comparison to low-level programming languages,
+ it may use natural language elements, be easier to use, or be more portable
+ across platforms http://en.wikipedia.org/wiki/High-level_programming_language
+Own Words: computer language that you can somewhat read
+2. (5 pts) compiler
+Internet: a computer program (or set of programs) that transforms source code
+ written in a programming language (the source language) into another computer
+ language (the target language, often having a binary form known as object code).
+ http://en.wikipedia.org/wiki/Compiler
+Own Words: program or group of programs that translate between source code and to
+ another computer language
+3. (5 pts) interpreter
+Internet: a computer program that executes, i.e. performs, instructions written
+ in a programming language http://en.wikipedia.org/wiki/Interpreter_(computing)
+Own Words: a program that performs one line of code at a time
+4. (5 pts) Java virtual machine
+Internet: an abstract stack-based computing machine whose instruction set is called Java bytecode. Typically, Java programs are compiled into class files containing Java Byte Code. The purpose of the JVM is to provide a consistent execution platform regardless
+ of the underlying hardware
+http://www.cise.ufl.edu/research/ParallelPatterns/glossary.htm#glossary:Java-Virtual-Machine
+Own Words: this allows computers to run java bytecode no matter what 
+5. (5 pts) Java bytecode
+Internet: the form of instructions that the Java virtual machine executes http://en.wikipedia.org/wiki/Java_bytecode
+Own Words: commands performed by the JVM
+
+
+Read Section 1.4
+
+

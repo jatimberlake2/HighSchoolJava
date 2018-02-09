@@ -1,0 +1,116 @@
+Section 1.7 Assignment
+
+The following terms are included in bold 
+in the text book.  Find each term in any 
+one of many glossaries available
+on the Internet.  Include the definition from 
+the Internet and include the web address.  Also, write a definition
+in your own words.  Check to make
+sure that the definition conforms to
+the intent in the textbook because
+some terms have more than one meaning.
+
+
+1. (5 pts) networks
+Internet: a collection of computers and devices connected by
+ communications channels that facilitates communications among
+ users and allows users to share resources with other users http://en.wikipedia.org/wiki/Computer_network
+Own Words: connections between 2 or more computers
+2. (5 pts) Internet 
+Internet: a global system of interconnected computer networks
+ that use the standard Internet Protocol Suite (TCP/IP) to serve
+ billions of users worldwide http://en.wikipedia.org/wiki/Internet
+Own Words: online connection between billions of computers all around the globe
+3. (5 pts) protocols 
+Internet: what or how unrelated objects use to communicate with each other http://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)
+Own Words: means of communication between unlike things
+4. (5 pts) Internet Protocol (IP)
+Internet: a protocol used for communicating data across a packet-switched
+ internetwork using the Internet Protocol Suite, also referred to as TCP/IP http://en.wikipedia.org/wiki/Internet_protocol
+Own Words: what sends packets through the internet
+5. (5 pts) Transmission Control Protocol (TCP)
+Internet: one of the core protocols of the Internet Protocol Suite. TCP is one
+ of the two original components of the suite, complementing the Internet Protocol
+ (IP) and therefore the entire suite is commonly referred to as TCP/IP http://en.wikipedia.org/wiki/Transmission_Control_Protocol
+Own words: completes and perfects communication on the internet
+6. (5 pts) packets 
+Internet: a formatted unit of data carried by a packet mode computer network http://en.wikipedia.org/wiki/Packet_(information_technology)
+Own Words: little parts of data that are split up to be sent and re-assembled
+ at the desired location
+7. (5 pts) IP address 
+Internet: a numerical label that is assigned to devices
+ participating in a computer network that uses the Internet
+ Protocol for communication between its nodes http://en.wikipedia.org/wiki/IP_address
+Own Words: an address of a computer using internet
+8. (5 pts) domain names
+Internet: an identification label that defines a realm
+ of administrative autonomy, authority, or control on the Internet,
+ based on the Domain Name System (DNS) http://en.wikipedia.org/wiki/Domain_names
+Own Words: what represents the identification of a certain place of
+ authority holding more control online
+9. (5 pts) remote login 
+Internet: refers to any method of controlling a computer from a remote location http://en.wikipedia.org/wiki/Remote_login
+Own Words: taking over a computer from a distance
+10. (5 pts) telnet 
+Internet: a network protocol used on the Internet or local area networks to
+ provide a bidirectional interactive text-oriented communications facility
+ via a virtual terminal connection http://en.wikipedia.org/wiki/Telnet
+Own Words: protocol that allows you to communicated with
+ text through a computer of some kind
+11. (5 pts) ssh (secure shell)
+Internet: a network protocol that allows data to be exchanged using a secure
+ channel between two networked devices http://en.wikipedia.org/wiki/Secure_Shell
+Own Words: a safe and secure internet network protocol
+12. (5 pts) electronic mail or email
+Internet: a method of exchanging digital messages across the
+ Internet or other computer networks http://en.wikipedia.org/wiki/Email
+Own words: sending and receiving messages through the internet faster than regular mail
+13. (5 pts) SMTP (Simple Mail Transfer Protocol).
+Internet: an Internet standard for electronic mail (e-mail) transmission
+ across Internet Protocol (IP) networks http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+Own Words: used for email to send through IP networks
+14. (5 pts) FTP (File Transport Protocol)
+Internet: a standard network protocol used to copy a file from one host to another over
+ a TCP/IP-based network, such as the Internet http://en.wikipedia.org/wiki/Ftp
+Own Words: typical network protocol for file copying to a TCP/IP network
+15. (5 pts) anonymous FTP
+Internet: A host that provides an FTP service may additionally provide
+ anonymous FTP access. Users typically log into the service with an 'anonymous'
+ account when prompted for user name http://en.wikipedia.org/wiki/Anonymous_FTP#Anonymous_FTP
+Own Words: an FTP server that allows users to access it by logging in anonymously
+16. (5 pts) World-Wide Web (WWW) 
+Internet: a system of interlinked hypertext documents accessed via the Internet http://en.wikipedia.org/wiki/Www
+Own Words: a collection of information stored online that can be accessed
+ by anybody connected to the internet
+17. (5 pts) pages
+Internet: A quantity of memory storage equal to between 512 and 4,096 bytes http://www.thefreedictionary.com/page
+Own Words: places online that store information
+18. (5 pts) links
+Internet: A segment of text or a graphical item that serves as a cross-reference
+ between parts of a hypertext document or between files or hypertext documents.
+ Also called hotlink, hyperlink http://www.thefreedictionary.com/link
+Own Words: objects on pages, usually clickable, that lead you to some other location
+19. (5 pts) Web browser 
+Internet: a program used to view HTML documents http://www.thefreedictionary.com/web+browser
+Own Words: programs that let you view documents online
+20. (5 pts) HTTP (HyperText Transfer Protocol)
+Internet: a protocol (utilizing TCP) to transfer hypertext requests
+ and information between servers and browsers http://www.thefreedictionary.com/HyperText+Transfer+Protocol
+Own Words: protocol that transfers hypertext requests to different servers/browsers
+
+21. (6 pts.) Look up ethical issues related to computers on
+the Internet. List six example topics in computer
+ethics as given at:
+http://plato.stanford.edu/entries/ethics-computer/#1
+
+Computers in the Workplace – health 
+Computer Crime – hacking
+Privacy and Anonymity – information access
+Intellectual Property – rights
+Professional Responsibility – documentation
+Globalization – laws and business
+
+
+Read Section 2.1
+
+
